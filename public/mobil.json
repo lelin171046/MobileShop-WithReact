@@ -1,0 +1,40 @@
+
+
+[
+  {
+    "id": 1,
+    "name": "Samsung Galaxy S23 Ultra",
+    "brand": "Samsung",
+    "image": "[https://www.gsmarena.com/samsung_galaxy_s23_ultra-pictures-12024.php](https://www.gsmarena.com/samsung_galaxy_s23_ultra-pictures-12024.php)",
+    "description": "A powerful phone with a gorgeous display, long battery life, and a versatile camera system."
+  },
+  {
+    "id": 2,
+    "name": "Apple iPhone 14 Pro Max",
+    "brand": "Apple",
+    "image": "[https://www.gsmarena.com/apple_iphone_14_pro_max-pictures-11773.php](https://www.gsmarena.com/apple_iphone_14_pro_max-pictures-11773.php)",
+    "description": "The latest iPhone with a super-fast processor, a stunning OLED display, and a powerful triple-lens camera system."
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 7 Pro",
+    "brand": "Google",
+    "image": "[https://www.gsmarena.com/google_pixel_7_pro-pictures-11908.php](https://www.gsmarena.com/google_pixel_7_pro-pictures-11908.php)",
+    "description": "A clean and powerful Android phone with a fantastic camera and excellent voice recognition features."
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 11 Pro",
+    "brand": "OnePlus",
+    "image": "[https://www.gsmarena.com/oneplus_11-pictures-11893.php](https://www.gsmarena.com/oneplus_11-pictures-11893.php)",
+    "description": "A fast and affordable flagship phone with a smooth display and a capable camera system."
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi 13 Ultra",
+    "brand": "Xiaomi",
+    "image": "[https://www.gsmarena.com/xiaomi_13_ultra-pictures-12236.php](https://www.gsmarena.com/xiaomi_13_ultra-pictures-12236.php)",
+    "description": "A feature-packed phone with a large display, a long-lasting battery, and a powerful camera with impressive zoom capabilities."
+  }
+]
+
